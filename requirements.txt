@@ -1,0 +1,11 @@
+fastapi==0.109.1
+uvicorn==0.27.1
+streamlit==1.31.0
+pydantic==2.5.3
+SQLAlchemy==2.0.25
+python-dotenv==1.0.1
+requests==2.31.0
+click==8.1.7
+pandas==2.2.0
+scipy==1.11.4
+react==18.2.0
